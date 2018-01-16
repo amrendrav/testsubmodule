@@ -1,3 +1,6 @@
 [submodule "doctrine"]
 	path = doctrine
 	url = https://github.com/amrendrav/doctrine2.git
+[submodule "exone"]
+	path = exone
+	url = https://github.com/amrendrav/example.git
